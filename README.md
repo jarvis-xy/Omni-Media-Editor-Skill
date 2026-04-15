@@ -1,5 +1,4 @@
-# Omni-Platform Article Creator Skill for OpenClaw
-
+# Omni-Platform Article Creator Skill 
 [English](#english) | [简体中文](#简体中文)
 
 ---
